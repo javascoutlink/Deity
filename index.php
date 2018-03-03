@@ -34,7 +34,7 @@
     <div class="body">
       <div id="jumbotron" class="background">
         <h1>Avonhead Baptist Church</h1>
-        <h2>Discipling the Nations accross the Ages</h2>
+        <h2>Discipling the Nations across the Ages</h2>
         <p id="come-with">Come With Us</p>
       </div>
       <div class="info-window">
