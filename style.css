@@ -127,3 +127,14 @@ body {
   text-align: center;
   font-size: 3em;
 }
+
+#ministry {
+  height: 100vh;
+  background-color: #E2655B;
+  padding: 10px;
+}
+
+#ministry h1 {
+  text-align: center;
+  margin: 0;
+}
