@@ -87,6 +87,22 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
+/*Info windows, sections and card*/
+.info-window {
+  width: 100%;
+  height: calc(100vh - 24px);
+}
+
+.info-window h1 {
+  padding: 12px;
+}
+
+.info-section-2, .info-section {
+  width: calc(50% - 24px);
+  padding: 12px;
+  float: left;
+}
+
 /*Generic classes*/
 .background {
   background-attachment: fixed;
