@@ -10,6 +10,10 @@
         <a href="services.php">Services</a>
         <a href="contact.php">Contact</a>
       </div>
+      <a href="index.php">
+        <div class="menu-logo">
+        </div>
+      </a>
       <div class="menu" id="menu-right">
         <a href="ministry.php">Ministries</a>
         <a href="about.php">About Us</a>

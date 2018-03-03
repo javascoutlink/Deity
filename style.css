@@ -22,6 +22,7 @@ body {
     padding: 0;
     position: fixed;
     top: 0;
+    font-family: 'Oswald', sans-serif;
 }
 
 .menu a {
@@ -45,6 +46,18 @@ body {
     color: white;
 }
 
+.menu-logo {
+  left: calc(50% - 50px);
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  background-color: #E2655B;
+  opacity: 0.9;
+}
+.menu-logo:hover {
+  background-color: #F2756B;
+}
+
 #menu-left {
   left: 0;
 }
@@ -63,9 +76,11 @@ body {
 
 #jumbotron h1 {
   margin: 0;
+  font-family: 'Oswald', sans-serif;
 }
 
 #jumbotron h2 {
+  font-family: 'Oswald', sans-serif;
 }
 
 /*Generic classes*/
