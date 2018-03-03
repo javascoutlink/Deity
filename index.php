@@ -42,20 +42,20 @@
       </div>
       <div id="ministry">
         <h1>Our Ministry Areas</h1>
-        <div class="gallery">
-          <div class="gallery-item">
+        <div class="meet-team">
+          <div>
             <img src="images/square.JPG">
             <h2>Kid's Ministry</h2>
           </div>
-          <div class="gallery-item">
+          <div>
             <img src="images/square.JPG">
             <h2>Kid's Ministry</h2>
           </div>
-          <div class="gallery-item">
+          <div>
             <img src="images/square.JPG">
             <h2>Kid's Ministry</h2>
           </div>
-          <div class="gallery-item">
+          <div>
             <img src="images/square.JPG">
             <h2>Kid's Ministry</h2>
           </div>
