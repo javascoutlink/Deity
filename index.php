@@ -7,12 +7,12 @@
   <body>
     <div class="header">
       <div class="menu" id="menu-left">
-        <a href="#">Home</a>
+        <a href="services.php">Services</a>
         <a href="contact.php">Contact</a>
       </div>
       <div class="menu" id="menu-right">
-        <a href="#">Ministries</a>
-        <a href="contact.php">Contact</a>
+        <a href="ministry.php">Ministries</a>
+        <a href="about.php">About Us</a>
       </div>
     </div>
     <div class="body">
