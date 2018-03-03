@@ -19,7 +19,7 @@
   <body>
     <div class="header">
       <div class="menu" id="menu-left">
-        <a href="services.php">Services</a>
+        <a href="members.php">Members</a>
         <a href="contact.php">Contact</a>
       </div>
       <a href="index.php">
