@@ -37,6 +37,24 @@
         <h2>Discipling the Nations accross the Ages</h2>
         <p id="come-with">Come With Us</p>
       </div>
+      <div class="info-window">
+        <h1>What's Happening</h1>
+        <div class="info-section" id="events">
+          <h2>Events</h2>
+          <div class="info-card">
+            <h3>Fake Event 1</h3>
+            <h4>6:30pm | 30th February 2018 | Hall</h4>
+            <p>Come along for a fun time doing some cool stuff like typing so there's enough text.</p>
+          </div>
+        </div>
+        <div class="info-section">
+          <h2>From the Minister</h2>
+        </div>
+      </div>
+      <div class="minitron" id="services">
+        <h1>Services</h1>
+
+      </div>
     </div>
     <p>Some text</p>
   </body>
