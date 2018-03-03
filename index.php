@@ -14,6 +14,9 @@
       background-color: #85D5FF;
       opacity: 0.7;
     }
+    #services {
+      background-image: url('images/services.JPG');
+    }
     </style>
   </head>
   <body>
