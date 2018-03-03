@@ -17,7 +17,7 @@
     </div>
     <div class="body">
       <div id="jumbotron" class="background">
-        <h1>Avonhead Baptist</h1>
+        <h1>Avonhead Baptist Church</h1>
         <h2>Discipling the Nations accross the Ages</h2>
       </div>
     </div>
