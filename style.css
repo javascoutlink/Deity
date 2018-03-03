@@ -54,7 +54,7 @@ body {
 #jumbotron {
   background-image: url('images/jumbotron.JPG');
   height: calc(100vh - 150px);
-  padding: 150px 0 0 85px;
+  padding: 200px 0 0 85px;
   color: #E2655B;
 }
 
@@ -63,7 +63,6 @@ body {
 }
 
 #jumbotron h2 {
-  margin: 0;
 }
 
 /*Generic classes*/
