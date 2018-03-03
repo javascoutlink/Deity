@@ -56,6 +56,5 @@
 
       </div>
     </div>
-    <p>Some text</p>
   </body>
 </html>
