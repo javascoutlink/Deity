@@ -99,7 +99,7 @@ body {
   background-size: cover;
 }
 
-.background .secondary {
+.secondary {
   padding: 120px;
   height: calc(100vh - 24px);
 }
