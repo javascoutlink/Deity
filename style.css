@@ -101,4 +101,10 @@ body {
 
 .background .secondary {
   padding: 120px;
+  height: calc(100vh - 24px);
+}
+
+.secondary h1 {
+  font-size: 3em;
+  text-align: center;
 }
