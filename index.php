@@ -42,8 +42,58 @@
         <h2>Discipling the Nations across the Ages</h2>
         <p id="come-with">Come With Us</p>
       </div>
+<<<<<<< HEAD
+      <div id="ministry">
+        <h1>Our Ministry Areas</h1>
+        <div class="meet-team">
+          <div class="mt-box">
+            <img src="images/square.JPG">
+            <div class="mt-text">
+              <h1>Children</h1>
+              <p>Doing Stuff</p>
+              <p>Contact Person: Person</p>
+              <p>Email: example@example.com</p>
+              <!--<a href="#" class="mt-action">Find out More</a>-->
+            </div>
+          </div>
+          <div class="mt-box">
+            <img src="images/square.JPG">
+            <div class="mt-text">
+              <h1>Prayer</h1>
+              <p>Doing Stuff</p>
+              <p>Contact Person: Person</p>
+              <p>Email: example@example.com</p>
+              <!--<a href="#" class="mt-action">Find out More</a>-->
+            </div>
+          </div>
+          <div class="mt-box">
+            <img src="images/square.JPG">
+            <div class="mt-text">
+              <h1>Worship</h1>
+              <p>Doing Stuff</p>
+              <p>Contact Person: Person</p>
+              <p>Email: example@example.com</p>
+              <!--<a href="#" class="mt-action">Find out More</a>-->
+            </div>
+          </div>
+          <div class="mt-box">
+            <img src="images/square.JPG">
+            <div class="mt-text">
+              <h1>Kid's Ministry</h1>
+              <p>Doing Stuff</p>
+              <p>Contact Person: Person</p>
+              <p>Email: example@example.com</p>
+              <!--<a href="#" class="mt-action">Find out More</a>-->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="minitron" id="services">
+        <h1>Services</h1>
+=======
       <div id="ministry" class="background secondary">
         <h1>Church Ministry</h1>
+>>>>>>> 73ac3f67247a63e07b23ac4a97252a5d7a1cfccc
 
       </div>
     </div>
