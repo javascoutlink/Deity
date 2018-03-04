@@ -40,29 +40,8 @@
         <h2>Discipling the Nations across the Ages</h2>
         <p id="come-with">Come With Us</p>
       </div>
-      <div id="ministry">
-        <h1>Our Ministry Areas</h1>
-        <div class="gallery">
-          <div class="gallery-item">
-            <img src="images/square.JPG">
-            <h2>Kid's Ministry</h2>
-          </div>
-          <div class="gallery-item">
-            <img src="images/square.JPG">
-            <h2>Kid's Ministry</h2>
-          </div>
-          <div class="gallery-item">
-            <img src="images/square.JPG">
-            <h2>Kid's Ministry</h2>
-          </div>
-          <div class="gallery-item">
-            <img src="images/square.JPG">
-            <h2>Kid's Ministry</h2>
-          </div>
-        </div>
-      </div>
-      <div class="minitron" id="services">
-        <h1>Services</h1>
+      <div id="ministry" class="background secondary">
+        <h1>Church Ministry</h1>
 
       </div>
     </div>

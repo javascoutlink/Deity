@@ -160,4 +160,6 @@ body {
 #ministry h1 {
   text-align: center;
   margin: 0;
+.background .secondary {
+  padding: 120px;
 }
