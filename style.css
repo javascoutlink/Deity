@@ -12,6 +12,14 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
+h1 {
+  font-size: 3em
+}
+
+h2 {
+
+}
+
 /*Heading Info*/
 .header {
   margin: 0;
@@ -128,10 +136,35 @@ body {
   font-size: 3em;
 }
 
-.gallery {
+.meet-team {
   width: 70%;
   margin-left: 15%;
   margin-right: 15%;
+}
+
+.mt-box {
+  width: calc(25% - 18px);
+  border: 1px solid black;
+  margin: 8px;
+  float: left;
+  background-color: #85D5FF;
+  color: white;
+}
+
+.mt-box img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.mt-text {
+  margin: 0;
+  padding: 8px;
+}
+
+.mt-text h1 {
+  font-size: 2em;
+  text-align: left;
 }
 
 #ministry {
@@ -140,7 +173,7 @@ body {
   padding: 10px;
 }
 
-#ministry h1 {
+#ministry h1:first-of-type {
   text-align: center;
   margin: 0;
 }
