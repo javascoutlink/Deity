@@ -66,6 +66,7 @@ h2 {
   background-color: #E2655B;
   opacity: 0.9;
 }
+
 .menu-logo:hover {
   background-color: #F2756B;
 }
@@ -97,21 +98,6 @@ h2 {
   font-family: 'Oswald', sans-serif;
 }
 
-/*Info windows, sections and card*/
-.info-window {
-  width: 100%;
-  height: calc(100vh - 24px);
-}
-
-.info-window h1 {
-  padding: 12px;
-}
-
-.info-section-2, .info-section {
-  width: calc(50% - 24px);
-  padding: 12px;
-  float: left;
-}
 
 /*Generic classes*/
 .background {
@@ -121,19 +107,14 @@ h2 {
   background-size: cover;
 }
 
-.minitron {
-  background-attachment: fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: calc(100vh - 116px);
-  padding: 108px 8px 8px 8px;
-  color: #E2655B;
+.secondary {
+  padding: 120px;
+  height: calc(100vh - 24px);
 }
 
-.minitron h1 {
-  text-align: center;
+.secondary h1 {
   font-size: 3em;
+<<<<<<< HEAD
 }
 
 .meet-team {
@@ -177,3 +158,7 @@ h2 {
   text-align: center;
   margin: 0;
 }
+=======
+  text-align: center;
+}
+>>>>>>> 73ac3f67247a63e07b23ac4a97252a5d7a1cfccc
