@@ -58,6 +58,7 @@ body {
   background-color: #E2655B;
   opacity: 0.9;
 }
+
 .menu-logo:hover {
   background-color: #F2756B;
 }
@@ -89,21 +90,6 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
-/*Info windows, sections and card*/
-.info-window {
-  width: 100%;
-  height: calc(100vh - 24px);
-}
-
-.info-window h1 {
-  padding: 12px;
-}
-
-.info-section-2, .info-section {
-  width: calc(50% - 24px);
-  padding: 12px;
-  float: left;
-}
 
 /*Generic classes*/
 .background {
@@ -113,53 +99,6 @@ body {
   background-size: cover;
 }
 
-.minitron {
-  background-attachment: fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: calc(100vh - 116px);
-  padding: 108px 8px 8px 8px;
-  color: #E2655B;
-}
-
-.minitron h1 {
-  text-align: center;
-  font-size: 3em;
-}
-
-.gallery {
-  width: 70%;
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
-.gallery-item {
-  width: calc(25% - 16px);
-  float: left;
-  padding: 8px;
-}
-
-.gallery-item img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 50%;
-}
-
-.gallery-item p {
-  text-align: center;
-}
-
-#ministry {
-  height: 100vh;
-  background-color: #E2655B;
-  padding: 10px;
-}
-
-#ministry h1 {
-  text-align: center;
-  margin: 0;
 .background .secondary {
   padding: 120px;
 }

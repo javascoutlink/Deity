@@ -14,7 +14,7 @@
       background-color: #85D5FF;
       opacity: 0.7;
     }
-    #services {
+    #services, #ministry {
       background-image: url('images/services.JPG');
     }
     </style>
