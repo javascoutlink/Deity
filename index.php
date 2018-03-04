@@ -6,7 +6,7 @@
     <style>
     #come-with {
       border: 2px solid #E2655B;
-      padding: 5px;
+      padding: 8px;
       width: 130px;
       font-size: 21px;
     }
