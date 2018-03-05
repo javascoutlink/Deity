@@ -10,7 +10,7 @@
       width: 130px;
       font-size: 21px;
     }
-    
+
     #come-with:hover {
       background-color: #85D5FF;
       opacity: 0.7;
@@ -40,7 +40,7 @@
       <div id="jumbotron" class="background">
         <h1>Avonhead Baptist Church</h1>
         <h2>Discipling the Nations across the Ages</h2>
-        <p id="come-with">Come With Us</p>
+        <a href="#"><button class="link">Come With Us</button></a>
       </div>
       <div id="ministry" class="background secondary">
         <h1>Church Ministry</h1>

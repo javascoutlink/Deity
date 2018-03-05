@@ -108,12 +108,15 @@ h2 {
 }
 
 .secondary {
-  padding: 120px;
-  height: calc(100vh - 24px);
+  height: calc(100vh - 220px);
+  padding: 110px 15%;
+  text-align: center;
+  color: #E2655B;
 }
 
 .secondary h1 {
-  font-size: 3em;
+  font-size: 3.5em;
+  margin: 0;
 }
 
 .secondary p {
