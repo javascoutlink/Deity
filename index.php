@@ -44,6 +44,8 @@
       </div>
       <div id="ministry" class="background secondary">
         <h1>Church Ministry</h1>
+        <p>At ABC, ministry is important to us and is at the center of us as a church.</p>
+        <a href="ministry.php"><button class="link">Find out more</button></a>
       </div>
     </div>
   </body>

@@ -116,13 +116,16 @@ h2 {
   font-size: 3em;
 }
 
-#ministry {
-  height: calc(100vh - 220px);
-  background-color: #E2655B;
-  padding: 110px 15%;
+.secondary p {
+  color: #E2655B;
+  font-size: 1.65em;
 }
-
-#ministry h1:first-of-type {
-  text-align: center;
-  margin: 0;
+.link {
+  padding: 10px 24px;
+  font-size: 1.75em;
+  font-family: 'Oswald', sans-serif;
+  background: none;
+  border: 2px solid #E2655B;
+  color: #E2655B;
+  cursor: pointer;
 }
