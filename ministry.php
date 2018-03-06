@@ -38,6 +38,11 @@
         <p>At ABC, ministry is important to us and is at the center of us as a church.</p>
         <a href="ministry.php"><button class="link-button">Find out more</button></a>
       </div>
+      <div id="kids" class="background secondary">
+        <h1>Kids' Church</h1>
+        <p>At ABC, we recognise that kids are the future of our church.</p>
+        <a href="ministry.php"><button class="link-button">Find out more</button></a>
+      </div>
     </div>
   </body>
 </html>
