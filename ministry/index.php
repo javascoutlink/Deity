@@ -34,12 +34,12 @@
       <div id="kids" class="background secondary">
         <h1>Kids' Church</h1>
         <p>At ABC, we recognise that kids are the future of our church.</p>
-        <a href="ministry.php"><button class="link-button">Find out more</button></a>
+        <a href="kids"><button class="link-button">Find out more</button></a>
       </div>
       <div id="youth" class="background secondary">
         <h1>Youth Group</h1>
         <p>At ABC, we recognise that kids are the future of our church.</p>
-        <a href="ministry.php"><button class="link-button">Find out more</button></a>
+        <a href="youth.php"><button class="link-button">Find out more</button></a>
       </div>
     </div>
   </body>
