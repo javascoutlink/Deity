@@ -11,6 +11,11 @@
     #act {
       background-image: url('../images/holidayprogram.jpg')
     }
+
+    #youth {
+      background-image: url('../images/youth.jpg');
+      background-position: top center;
+    }
     </style>
     <script src="../include.js"></script>
   </head>
