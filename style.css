@@ -47,11 +47,13 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 17px;
     width: calc(50% - 28px);
     text-transform: uppercase;
+    transition: .5s ease;
 }
 
 .menu a:hover {
     background-color: #F2756B;
     color: black;
+    transition: .5s ease;
 }
 
 .menu a.active {
@@ -66,10 +68,12 @@ h1, h2, h3, h4, h5, h6, p {
   position: fixed;
   background-color: #E2655B;
   opacity: 0.9;
+  transition: .5s ease;
 }
 
 .menu-logo:hover {
   background-color: #F2756B;
+  transition: .5s ease;
 }
 
 #menu-left {
@@ -128,6 +132,8 @@ h1, h2, h3, h4, h5, h6, p {
   border: 2px solid #E2655B;
   color: #E2655B;
   cursor: pointer;
+  transition: .5s ease;
+  transition: .5s ease;
 }
 
 #jumbotron {
