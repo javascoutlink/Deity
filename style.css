@@ -3,7 +3,7 @@
 #85D5FF - Accents e.g. 'Come With Us' button*/
 
 /*Google Fonts Import*/
-@import url('https://fonts.googleapis.com/css?family=Oswald:400,600');
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
 
 /*Body Stye Info*/
 body {
@@ -93,7 +93,7 @@ h2 {
 }
 
 #jumbotron b {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 
