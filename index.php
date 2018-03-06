@@ -4,7 +4,7 @@
     <title>Avonhead Baptist Church || Home Page</title>
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
-    #services, #ministry {
+    #ministry {
       background-image: url('images/services.JPG');
     }
 
