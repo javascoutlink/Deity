@@ -10,9 +10,6 @@
 
     #jumbotron {
       background-image: url('images/jumbotron.JPG');
-      height: calc(100vh - 200px);
-      padding: 200px 0 0 85px;
-      color: #E2655B;
     }
     </style>
   </head>

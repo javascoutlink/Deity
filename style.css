@@ -125,3 +125,9 @@ h2 {
   color: #E2655B;
   cursor: pointer;
 }
+
+#jumbotron {
+  height: calc(100vh - 200px);
+  padding: 200px 0 0 85px;
+  color: #E2655B;
+}
