@@ -133,6 +133,11 @@ h1, h2, h3, h4, h5, h6, p {
   color: #E2655B;
   cursor: pointer;
   transition: .5s ease;
+}
+
+.link-button:hover {
+  background: #E2655B;
+  color: white;
   transition: .5s ease;
 }
 
