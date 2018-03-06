@@ -2,14 +2,14 @@
 <html>
   <head>
     <title>Avonhead Baptist Church || Ministry</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="../style.css" rel="stylesheet" type="text/css">
     <style>
     #jumbotron {
-      background-image: url('images/jumbotron.JPG');
+      background-image: url('../images/jumbotron.JPG');
     }
 
     #act {
-      background-image: url('images/holidayprogram.jpg')
+      background-image: url('../images/holidayprogram.jpg')
     }
     </style>
   </head>
@@ -36,7 +36,7 @@
       <div id="act" class="background secondary">
         <h1>Avonhead Community Trust</h1>
         <p>At ABC, ministry is important to us and is at the center of us as a church.</p>
-        <a href="ministry.php"><button class="link-button">Find out more</button></a>
+        <a href="http://actrust.org.nz/"><button class="link-button">Find out more</button></a>
       </div>
       <div id="kids" class="background secondary">
         <h1>Kids' Church</h1>
