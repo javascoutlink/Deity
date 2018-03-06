@@ -148,3 +148,15 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 200px 0 0 85px;
   color: #E2655B;
 }
+
+.text-box {
+  display: table;
+  width: 100%;
+}
+
+.text-box div {
+  display: table-cell;
+  padding: 16px;
+  text-align: center;
+  width: 50%;
+}
