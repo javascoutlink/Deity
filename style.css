@@ -3,21 +3,23 @@
 #85D5FF - Accents e.g. 'Come With Us' button*/
 
 /*Google Fonts Import*/
-@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,600');
 
 /*Body Stye Info*/
 body {
   margin: 0;
   padding: 0;
   font-family: 'Oswald', sans-serif;
+  font-weight: 400;
 }
 
 h1 {
-  font-size: 3em
+  font-size: 3em;
+  font-weight: 400;
 }
 
 h2 {
-
+  font-weight: 400;
 }
 
 /*Heading Info*/
@@ -88,7 +90,10 @@ h2 {
 
 #jumbotron h2 {
   font-size: 2em;
-  font-family: 'Oswald', sans-serif;
+}
+
+#jumbotron b {
+  font-weight: 600;
 }
 
 
