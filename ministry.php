@@ -4,6 +4,9 @@
     <title>Avonhead Baptist Church || Ministry</title>
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
+    #jumbotron {
+      background-image: url('images/jumbotron.JPG');
+    }
     </style>
   </head>
   <body>
