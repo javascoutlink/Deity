@@ -4,7 +4,7 @@
     <title>Avonhead Baptist Church || Home Page</title>
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
-    #ministry {
+    #services {
       background-image: url('images/services.JPG');
     }
 
@@ -26,6 +26,11 @@
         <h1>Church Ministry</h1>
         <p>At ABC, ministry is important to us and is at the center of us as a church.</p>
         <a href="ministry.php"><button class="link-button">Find out more</button></a>
+      </div>
+      <div id="services" class="background secondary">
+        <h1>Services</h1>
+        <p>We have a few options for services.</p>
+        <a href="services.php"><button class="link-button">Find out more</button></a>
       </div>
     </div>
   </body>
