@@ -4,18 +4,6 @@
     <title>Avonhead Baptist Church || Home Page</title>
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
-    #come-with {
-      border: 2px solid #E2655B;
-      padding: 8px;
-      width: 130px;
-      font-size: 21px;
-    }
-
-    #come-with:hover {
-      background-color: #85D5FF;
-      opacity: 0.7;
-    }
-
     #services, #ministry {
       background-image: url('images/services.JPG');
     }
