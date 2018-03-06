@@ -69,11 +69,13 @@ h1, h2, h3, h4, h5, h6, p {
   background-color: #E2655B;
   opacity: 0.9;
   transition: .5s ease;
+  background-image: url('images/whitelogo.png');
 }
 
 .menu-logo:hover {
   background-color: #F2756B;
   transition: .5s ease;
+  background-image: url('images/greylogo.png');
 }
 
 #menu-left {
