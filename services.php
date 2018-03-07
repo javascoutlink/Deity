@@ -35,6 +35,12 @@
           <p>Church Lounge</p>
           <p>This is a midweek service with communion.</p>
         </div>
+        <div id="prayer">
+          <h1>Prayer Services</h1>
+          <p>Everyday @ 5PM</p>
+          <p>Church Office</p>
+          <p>For the time of lent.</p>
+        </div>
       </div>
     </div>
   </body>
