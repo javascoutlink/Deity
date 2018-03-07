@@ -27,6 +27,7 @@
           <h1>Sunday Service</h1>
           <p>Every Sunday @ 10AM</p>
           <p>Church Auditorium</p>
+          <p>This is our regular Sunday service.</p>
         </div>
         <div id="midweek">
           <h1>Communion Service</h1>
