@@ -158,5 +158,16 @@ h1, h2, h3, h4, h5, h6, p {
   display: table-cell;
   padding: 16px;
   text-align: center;
-  width: 50%;
+  width: calc(100% / 3);
+}
+
+.tb-head {
+  text-align: center;
+  font-size: 3.7em;
+}
+
+@media (max-width: 960px) {
+  .text-box div {
+    width: 100%;
+  }
 }
