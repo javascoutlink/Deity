@@ -6,7 +6,7 @@
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
     #jumbotron {
-      background-image: url('images/jumbotron.jpg')
+      background-image: url('images/services.jpg')
     }
 
     #times p {
@@ -20,7 +20,7 @@
     <div class="body">
       <div id="jumbotron" class="background">
         <h1>Services</h1>
-        <h2>Celebrate Him with us</h2>
+        <h2>Celebrate <b>Him</b> with us</h2>
       </div>
       <div id="times" class="text-box">
         <div id="sunday">
