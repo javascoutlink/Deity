@@ -20,7 +20,7 @@
       <div id="jumbotron" class="background">
         <h1>Avonhead Baptist Church</h1>
         <h2>Discipling the Nations across the Ages</h2>
-        <a href="#"><button class="link-button">Come With Us</button></a>
+        <a href="#services"><button class="link-button">Come With Us</button></a>
       </div>
       <div id="ministry" class="background secondary">
         <h1>Church Ministry</h1>
