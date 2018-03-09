@@ -3,6 +3,7 @@
   <head>
     <title>Avonhead Baptist Church || Home Page</title>
     <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
     #services {
       background-image: url('images/services.JPG');
