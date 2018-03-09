@@ -13,6 +13,9 @@
         <h2>Tagline</h2>
       </div>
       <div id="team" class="text-box">
+        <div w3-include-html="cards/brucew.html"></div>
+        <div w3-include-html="cards/nicky.html"></div>
+        <div w3-include-html="cards/olive.html"></div>
       </div>
     </div>
   </body>
