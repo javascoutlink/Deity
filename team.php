@@ -13,10 +13,13 @@
         <h1>Meet the Team</h1>
         <h2>Tagline</h2>
       </div>
-      <div id="team" class="text-box">
+      <div id="team" class="cards">
         <div w3-include-html="cards/brucew.html"></div>
         <div w3-include-html="cards/nicky.html"></div>
         <div w3-include-html="cards/olive.html"></div>
+        <div w3-include-html="cards/wendy.html"></div>
+        <div w3-include-html="cards/olive.html"></div>
+        <div w3-include-html="cards/wendy.html"></div>
       </div>
     </div>
   </body>
